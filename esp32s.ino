@@ -100,7 +100,7 @@ const char* ssid = "Public Safety Section 9";
 const char* password = "12121212";
 
 String JSON_URL = "https://api.myjson.com/bins/1e6vy6";
-String OPEN_WEATHER_MAP_URL = "https://api.openweathermap.org/data/2.5/forecast?q=07012&appid=4c1ad9d4df66f25f1cdde9eca7fbe5dc";
+String OPEN_WEATHER_MAP_URL = "https://api.openweathermap.org/data/2.5/forecast?q=07012&appid=REPLACEWITHYOURAPIKEY";
 
 DynamicJsonBuffer json_buffer;
 
